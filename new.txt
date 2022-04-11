@@ -1,0 +1,4 @@
+name:Danil
+age:26
+number_of_pet:2
+desired_salary_in_rubles:50000
