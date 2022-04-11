@@ -1,0 +1,5 @@
+Favorite film: Matrix,
+Favorite series: True detective
+Favorite food: steak,
+Favorite season: autumn
+The country I want to visit: Iceland

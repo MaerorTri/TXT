@@ -1,0 +1,1 @@
+Testing API via Postman, Writing a bug reports, Mobile testing, Load Testing in JMeter, Removing and reading logs from external server, Linux command line.
